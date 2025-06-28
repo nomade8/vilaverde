@@ -1,7 +1,7 @@
 
 # Vila Verde - O Amanhã no Interior: Documentação do Jogo
 
-## 1. Visão Geral do Jogo
+## 1. Visão Geral do Jogo (ainda em desenvolvimento)
 
 "Vila Verde" é um jogo pedagógico de construção de cidade do interior em 3D, onde o jogador assume o papel de um "Pioneiro da Sustentabilidade". O objetivo principal não é a competição, mas sim o aprendizado e a experimentação na criação de uma comunidade próspera e ecologicamente equilibrada. Não há pontuação competitiva, mas sim indicadores visuais e textuais que refletem o progresso e o bem-estar da vila.
 
